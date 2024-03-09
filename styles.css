@@ -1,0 +1,133 @@
+/* import fonts */
+@font-face {
+  font-family: "Oswald";
+  src:
+    local("Trickster"),
+    url("oswald/Oswald-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Oswald";
+  font-weight: bold;
+  src:
+    local("Trickster"),
+    url("oswald/Oswald-Medium.ttf") format("truetype");
+}
+
+body{
+	font-family: tahoma, verdana, sans-serif;
+	background: #faf7f5;
+	padding: 1em;
+}
+
+h1{
+	font-family: Oswald, tahoma, verdana, sans-serif;
+	font-weight: bold;
+	margin: 0;
+}
+
+h2{
+	font-family: Oswald, tahoma, verdana, sans-serif;
+	font-weight: inherit;
+	margin: 0;
+	font-size: 2em;
+}
+
+hr{
+	clear: both;
+}
+
+main h2{
+	margin: 0.5em 0;
+}
+
+header, main, footer{
+	max-width: 1000px;
+	margin: auto;
+}
+
+footer{
+	color: grey;
+	text-align: right;
+}
+
+a, a:visited{
+	color: #19a7ff;
+}
+
+a:hover{
+	color: #0070ff;
+}
+
+nav{
+	font-weight: bold;
+	margin-bottom: 1.5em;
+}
+
+
+/* make navbar inline and image float depending on screen size*/
+@media (min-width: 750px) {
+	nav ul{
+		display: flex;
+		padding-left: 0;
+	}
+
+	nav li{
+		display: inline;
+	}
+
+	nav li:not(:last-child)::after{
+		content: "–";
+		padding: 0 0.75em;
+	}
+
+	nav img{
+		display: none;
+	}
+
+	.left{
+		float: right;
+		margin: 1em;
+		margin-top: 0;
+		margin-right: 0;
+	}
+
+	/* make floated blocks align with preceding headings */
+	h2 + .left{
+		margin-top: -3em;
+	}
+}
+
+@media (max-width: 750px) {
+	nav ul{
+		padding-left: 0;
+	}
+
+	nav li{
+		display: block;
+		line-height: 2em;
+		vertical-align: middle;
+		font-size: 1.5em;
+	}
+
+	nav img{
+		width: 1.5em;
+		margin-right: 0.5em;
+		vertical-align: middle;
+	}
+
+	.left{
+		width: 100%;
+	}
+}
+
+nav a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: square;
+}
+
+#animecovers img{
+	height: 150px;
+}
