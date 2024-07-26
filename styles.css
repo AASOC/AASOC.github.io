@@ -95,6 +95,10 @@ nav{
 	h2 + .left{
 		margin-top: -3em;
 	}
+
+	#icon{
+		float: right;
+	}
 }
 
 @media (max-width: 750px) {
