@@ -135,3 +135,13 @@ ul{
 #animecovers img{
 	height: 150px;
 }
+
+td{
+	padding: 0 0.25em;
+	border-bottom: 1px solid darkgrey;
+}
+
+th, td{
+	padding-top: 0.5em;
+	border-bottom: 1px solid darkgrey;
+}
