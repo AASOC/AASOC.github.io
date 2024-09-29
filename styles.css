@@ -145,3 +145,9 @@ th{
 	padding-top: 0.5em;
 	border-bottom: 1px solid darkgrey;
 }
+
+tr:hover td{
+	border-color: black;
+	background: #0002;
+}
+
