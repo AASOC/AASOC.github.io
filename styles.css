@@ -122,6 +122,10 @@ nav{
 	.left{
 		width: 100%;
 	}
+
+	table{
+		font-size: 2vw;
+	}
 }
 
 nav a{
