@@ -5,6 +5,7 @@
     local("Trickster"),
     url("oswald/Oswald-Regular.ttf") format("truetype");
 }
+
 @font-face {
   font-family: "Oswald";
   font-weight: bold;
