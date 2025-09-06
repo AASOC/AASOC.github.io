@@ -14,6 +14,8 @@
     url("oswald/Oswald-Medium.ttf") format("truetype");
 }
 
+
+
 body{
 	font-family: tahoma, verdana, sans-serif;
 	background: #faf7f5;
@@ -31,6 +33,21 @@ h2{
 	font-weight: inherit;
 	margin: 0;
 	font-size: 2em;
+}
+
+h3{
+	font-family: Oswald, tahoma, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 1.3em;
+	margin: 0em;
+}
+
+a:link{
+	color: #0c9dff;
+}
+
+.date + p{
+	margin-top: 0em;
 }
 
 hr{
@@ -100,6 +117,15 @@ nav{
 	#icon{
 		float: right;
 	}
+
+	.articleImg{
+		float: right;
+		margin:5px;
+		object-fit: cover;
+		object-position: 25% 25%; 
+		width:300px;
+		height:150px
+	}
 }
 
 @media (max-width: 750px) {
@@ -121,6 +147,10 @@ nav{
 	}
 
 	.left{
+		width: 100%;
+	}
+
+	.articleImg{
 		width: 100%;
 	}
 
@@ -155,4 +185,17 @@ tr:hover td{
 	border-color: black;
 	background: #0002;
 }
+
+.headerimg{
+	max-width: 100%;
+	max-height: 100%;
+	object-fit: contain;
+}
+
+.date{
+	font-size: 1.1em;
+	font-family: Oswald, tahoma, verdana, sans-serif;
+	margin: 0.0em;
+}
+
 
