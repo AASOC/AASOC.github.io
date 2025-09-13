@@ -20,6 +20,7 @@ body{
 	font-family: tahoma, verdana, sans-serif;
 	background: #faf7f5;
 	padding: 1em;
+	color: #202020
 }
 
 h1{
@@ -40,6 +41,23 @@ h3{
 	font-weight: bold;
 	font-size: 1.3em;
 	margin: 0em;
+}
+
+
+h4{
+	font-family: Oswald, tahoma, verdana, sans-serif;
+	font-weight: bold;
+	font-size: 1.4em;
+	margin: 0em;
+}
+
+h3+p{
+	margin: 0.1em;
+}
+
+h2+h4{
+	margin-bottom: 0.0em;
+	margin-top: 0.0em;
 }
 
 a:link{

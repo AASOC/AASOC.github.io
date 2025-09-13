@@ -26,7 +26,8 @@ function myFunction(element) {
 
 	console.log(events.length)
 	if (events.length === 0) {
-	    document.getElementById("info").innerHTML = "No events today.";
+	    document.getElementById("selectedDate").innerHTML = textContent + "  September";
+	    document.getElementById("info").innerHTML = "No events on this day.";
 	    return;
 	}
 
@@ -37,6 +38,6 @@ function myFunction(element) {
 	text += "<ul>";
 
 	document.getElementById("info").innerHTML = text;
-	document.getElementById("selectedDate").innerHTML = textContent + "  september";
+	document.getElementById("selectedDate").innerHTML = textContent + "  September";
 	
 }

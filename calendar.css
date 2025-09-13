@@ -20,7 +20,7 @@ body{
 	font-family: tahoma, verdana, sans-serif;
 	background: #faf7f5;
 	padding: 1em;
-	color: #404040
+	color: #202020
 }
 
 h1{
@@ -108,6 +108,11 @@ nav{
 		margin: 1em;
 		margin-top: 0;
 		margin-right: 0;
+	}
+
+	.calendar{
+		float: right;
+		margin: 1em;
 	}
 
 	/* make floated blocks align with preceding headings */
