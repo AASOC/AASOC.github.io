@@ -102,6 +102,10 @@ nav{
 
 /* make navbar inline and image float depending on screen size*/
 @media (min-width: 750px) {
+
+	.qr{
+		width: 20%;
+	}
 	nav ul{
 		display: flex;
 		padding-left: 0;
@@ -147,6 +151,8 @@ nav{
 }
 
 @media (max-width: 750px) {
+
+
 	nav ul{
 		padding-left: 0;
 	}
@@ -166,6 +172,10 @@ nav{
 
 	.left{
 		width: 100%;
+	}
+
+	.qr{
+		display: none;
 	}
 
 	.articleImg{
