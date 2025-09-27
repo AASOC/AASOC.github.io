@@ -10,6 +10,7 @@ async function initCalendar() {
 	for (let day in monthData) {
 		if (monthData[day].length !== 0) {
 			document.getElementById(day).style.color = "#0c9dff";
+			document.getElementById(day).style.background.color = "#0c9dff";
 		}
 		else {
 			document.getElementById(day).style.color = "#898989";
