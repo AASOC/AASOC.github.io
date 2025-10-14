@@ -1,34 +1,20 @@
 {
-	"sept" : {
-		"01": [],
-		"02": [],
-		"03": [],
-		"04": [],
-		"05": [],
-		"06": [],
-		"07": [],
-		"08": [],
-		"09": [],
-		"10": ["Activities Fair Stall, 10:00 - 16:00"],
-		"11": ["Look Back Screening, 18:00 - 20:00", "Pub Social, 20:00 - 22:00"],
-		"12": [],
-		"13": ["Flip Book Event, 13:00 - 16:00"],
-		"14": [],
-		"15": [],
-		"16": [],
-		"17": ["Figure Painting Event (TIME AND LOCATION TBC)"],
-		"18": [],
-		"19": ["Anime Screening, 18:00 - 20:00"],
-		"20": ["3D Rigging Event 14:00 - 17:00"],
-		"21": [],
-		"22": [],
-		"23": [],
-		"24": ["Academic Speaker (TBC)"],
-		"25": [],
-		"26": ["Anime Screening, 18:00 - 20:00"],
-		"27": ["Vector Animation, 14:00 - 17:00"],
-		"28": [],
-		"29": [],
-		"30": []
-	}
+	"events": [
+		{
+			"date"     : "2025-10-15",
+			"time"     : "18:00-20:00",
+			"title"    : "figure painting + papercraft",
+			"location" : "G.09, Lister LTC",
+			"desc"     : "Come along and paint some figures! Figures and paint provided!",
+			"image"    : "painting.jpg"
+		},
+		{
+			"date"     : "2025-10-17",
+			"time"     : "18:00-20:00",
+			"title"    : "anime screening",
+			"location" : "LG.09, 40 George Square",
+			"desc"     : "Join us for the episodes 5-8 of Sonny Boy! Followed by a social of course!",
+			"image"    : "sonny-boy.gif"
+		}
+	]
 }
