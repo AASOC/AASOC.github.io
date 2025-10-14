@@ -44,8 +44,7 @@
 			"locationmap"	: "https://maps.app.goo.gl/RrhP4kfVC7xsauZd6",
 			"desc"		: "Join the cosplay competition to show off your outfit with the chance to win prizes, sing your favourite songs at karaoke, make friends with other weebs, and have fun!",
 			"image"		: "halloween.gif"
-		}
-
+		},
 		{
 			"date"		: "2025-10-29",
 			"time"		: "TBA",
@@ -54,6 +53,6 @@
 			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
 			"desc"		: "Who up carving they pumpkins.",
 			"image"		: "pumpkin.gif"
-		},
+		}
 	]
 }
