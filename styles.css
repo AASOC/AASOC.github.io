@@ -148,6 +148,12 @@ nav{
 		width:300px;
 		height:150px
 	}
+
+
+	.event{
+		padding-bottom: 4em;
+		height: 110px;
+	}
 }
 
 @media (max-width: 750px) {
@@ -185,6 +191,11 @@ nav{
 	table{
 		font-size: 2vw;
 	}
+
+	.event{
+		padding-bottom: 2em;
+	}
+
 }
 
 nav a{
@@ -226,6 +237,4 @@ tr:hover td{
 	margin: 0.0em;
 }
 
-.event{
-	padding-bottom: 4em;
-}
+

@@ -30,7 +30,7 @@ function formatDate(date){
 }
 
 async function loadUpcoming() {
-	const response = await fetch("https://www.aasoced.moe/events2.json");
+	const response = await fetch("https://www.aasoced.moe/events.json");
 	const data = await response.json();
 	const today = new Date();
 
@@ -49,11 +49,12 @@ async function loadUpcoming() {
 
 		`).join("");
 
-	container.insertAdjacentHTML('beforeend', `
+	// NEED TO FIX THE CALENDAR BEFOREHAND; RESTRUCTURE WITH NEW EVENTS.JSON
+/*	container.insertAdjacentHTML('beforeend', `
 				<a href="calendar.html">See our upcoming events for the month!</a>
 				<br />
 				<hr />
 		`);
-}
+} */
 
 loadUpcoming();
