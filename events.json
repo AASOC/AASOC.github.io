@@ -53,6 +53,15 @@
 			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
 			"desc"		: "Who up carving they pumpkins.",
 			"image"		: "pumpkin.gif"
+		},
+		{
+			"date"		: "9999-99-99",
+			"time"		: "00:00",
+			"title"		: "the end of anisoc",
+			"location"	: "new tokyo-3",
+			"locationmap"	: "https://www.youtube.com/watch?v=6kguaGI7aZg",
+			"desc"		: "Take care of yourself.",
+			"image"		: "eoe.jpg"
 		}
 	]
 }
