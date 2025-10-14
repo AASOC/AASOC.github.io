@@ -50,11 +50,11 @@ async function loadUpcoming() {
 		`).join("");
 
 	// NEED TO FIX THE CALENDAR BEFOREHAND; RESTRUCTURE WITH NEW EVENTS.JSON
-/*	container.insertAdjacentHTML('beforeend', `
-				<a href="calendar.html">See our upcoming events for the month!</a>
+	//			<a href="calendar.html">See our upcoming events for the month!</a>
+	container.insertAdjacentHTML('beforeend', `
 				<br />
 				<hr />
 		`);
-} */
+} 
 
 loadUpcoming();
