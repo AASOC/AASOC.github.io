@@ -5,14 +5,16 @@
 			"time"     : "18:00-20:00",
 			"title"    : "figure painting + papercraft",
 			"location" : "G.09, Lister LTC",
-			"desc"     :  "Come along and paint some figures! Figures and paint provided!"
+			"desc"     : "Come along and paint some figures! Figures and paint provided!",
+			"image"    : "painting.jpg"
 		},
 		{
 			"date"     : "2025-10-17",
 			"time"     : "18:00-20:00",
 			"title"    : "anime screening",
 			"location" : "LG.09, 40 George Square",
-			"desc"     : "Join us for the episodes 5-8 of Sonny Boy! Followed by a social of course!"
+			"desc"     : "Join us for the episodes 5-8 of Sonny Boy! Followed by a social of course!",
+			"image"    : "sonny-boy.gif"
 		}
 	]
 }
