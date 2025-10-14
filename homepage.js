@@ -36,7 +36,7 @@ async function loadUpcoming() {
 
 	const events = data.events
 	.filter(event => new Date(event.date) >= today)
-	.slice(0,5);
+	.slice(0,3);
 	const container = document.getElementById("events");
 	container.innerHTML += 
 		events.map( event => `
