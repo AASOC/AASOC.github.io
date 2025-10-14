@@ -1,20 +1,31 @@
 {
 	"events": [
 		{
-			"date"     : "2025-10-15",
-			"time"     : "18:00-20:00",
-			"title"    : "figure painting + papercraft",
-			"location" : "G.09, Lister LTC",
-			"desc"     : "Come along and paint some figures! Figures and paint provided!",
-			"image"    : "painting.jpg"
+			"date"		: "2025-10-15",
+			"time"		: "18:00-20:00",
+			"title"		: "figure painting + papercraft",
+			"location"	: "G.09, Lister LTC",
+			"locationmap"	: "https://maps.app.goo.gl/mZUiAz47pUYF2JFm9",
+			"desc"		: "Come along and paint some figures! Figures and paint provided!",
+			"image"		: "painting.jpg"
 		},
 		{
-			"date"     : "2025-10-17",
-			"time"     : "18:00-20:00",
-			"title"    : "anime screening",
-			"location" : "LG.09, 40 George Square",
-			"desc"     : "Join us for the episodes 5-8 of Sonny Boy! Followed by a social of course!",
-			"image"    : "sonny-boy.gif"
+			"date"		: "2025-10-17",
+			"time"		: "18:00-20:00",
+			"title"		: "anime screening",
+			"location"	: "LG.09, 40 George Square",
+			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
+			"desc"		: "Join us for the episodes 5-8 of Sonny Boy! Followed by a social of course!",
+			"image"		: "sonny-boy.gif"
+		},
+		{
+			"date"		: "2025-10-18",
+			"time"		: "18:00-20:00",
+			"title"		: "animation workshop - garticphone",
+			"location"	: "LG.07, 40 George Square",
+			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
+			"desc"		: "For this week's animation event we will be playing Gartic Phone, an online collaborative drawing game! We encourage you to bring a drawing tablet or iPad if you have one, but your phone will work well too!",
+			"image"		: "gartic.gif"
 		}
 	]
 }
