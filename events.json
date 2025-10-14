@@ -37,13 +37,23 @@
 			"image"		: "sonny-boy.gif"
 		},
 		{
-			"date"		: "2025-10-24",
+			"date"		: "2025-10-26",
 			"time"		: "18:30-22:00",
 			"title"		: "halloween cosplay party",
 			"location"	: "Maggie's Front Room @ The Three Sisters",
 			"locationmap"	: "https://maps.app.goo.gl/RrhP4kfVC7xsauZd6",
 			"desc"		: "Join the cosplay competition to show off your outfit with the chance to win prizes, sing your favourite songs at karaoke, make friends with other weebs, and have fun!",
-			"image"		: "sonny-boy.gif"
+			"image"		: "halloween.gif"
 		}
+
+		{
+			"date"		: "2025-10-29",
+			"time"		: "TBA",
+			"title"		: "Pumpkin Carving",
+			"location"	: "LG.09, 40 George Square",
+			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
+			"desc"		: "Who up carving they pumpkins.",
+			"image"		: "pumpkin.gif"
+		},
 	]
 }
