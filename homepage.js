@@ -33,6 +33,7 @@ async function loadUpcoming() {
 	const response = await fetch("https://www.aasoced.moe/events.json");
 	const data = await response.json();
 	const today = new Date();
+	today.setHours(0, 0, 0, 0);
 
 	const events = data.events
 	.filter(event => new Date(event.date) >= today)
