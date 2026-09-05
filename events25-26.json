@@ -1,0 +1,40 @@
+{
+	"events": [
+		{
+			"date"		: "2025-10-29",
+			"time"		: "17:00-20:00",
+			"title"		: "Pumpkin Carving",
+			"location"	: "G.09, Lister LTC",
+			"locationmap"	: "https://maps.app.goo.gl/mZUiAz47pUYF2JFm9",
+			"desc"		: "Who up carving they pumpkins.",
+			"image"		: "pumpkin.gif"
+		},
+		{
+			"date"		: "2025-10-31",
+			"time"		: "18:00-20:00",
+			"title"		: "anime screening",
+			"location"	: "LG.09, 40 George Square",
+			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
+			"desc"		: "We will start our next batch of screenings with the hilarious rom-com Kaguya-Sama: Love is War! (1-4)",
+			"image"		: "kaguya.gif"
+		},
+		{
+			"date"		: "2025-11-01",
+			"time"		: "14:00-17:00",
+			"title"		: "animation workshop - stop motion",
+			"location"	: "LG.07, 40 George Square",
+			"locationmap"	: "https://maps.app.goo.gl/j1dR4miiyQbt68Do7",
+			"desc"		: "For this animation event, we will be combining stop motion animation with drawing! We will be using the Stop Motion Studio app, so please install it in advanced!",
+			"image"		: "stopmotion.gif"
+		},
+		{
+			"date"		: "9999-12-31",
+			"time"		: "00:00",
+			"title"		: "the end of anisoc",
+			"location"	: "new tokyo-3",
+			"locationmap"	: "https://www.youtube.com/watch?v=6kguaGI7aZg",
+			"desc"		: "Take care of yourself.",
+			"image"		: "eoe.jpg"
+		}
+	]
+}
