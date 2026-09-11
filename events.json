@@ -3,10 +3,19 @@
 		{
 			"date"		: "2026-09-15",
 			"time"		: "17:00-19:00",
-			"title"		: "Anime Screening + Pub Social",
-			"location"	: "TBD, Check Socials!",
-			"locationmap"	: "https://www.instagram.com/anisoc.ed/",
-			"desc"		: "A screening of The Girl Who Leapt Through Time (2006), followed by a pub social!",
+			"title"		: "Anime Screening",
+			"location"	: "MacLaren Stuart Room, G.159 Old College",
+			"locationmap"	: "https://maps.app.goo.gl/RcrADPfbjt5rquHb9",
+			"desc"		: "A screening of The Girl Who Leapt Through Time (2006)!",
+			"image"		: "tgwltt.gif"
+		},
+		{
+			"date"		: "2026-09-15",
+			"time"		: "19:00",
+			"title"		: "Pub Social",
+			"location"	: "Bar Fifty",
+			"locationmap"	: "https://maps.app.goo.gl/A2t37sRUZnkXczR88",
+			"desc"		: "Come along for a pub social following the Movie Screening!",
 			"image"		: "tgwltt.gif"
 		},
 		{
