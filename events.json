@@ -1,40 +1,31 @@
 {
 	"events": [
 		{
-			"date"		: "2026-09-15",
-			"time"		: "17:00-19:00",
+			"date"		: "2026-10-14",
+			"time"		: "18:00-20:00",
+			"title"		: "Animation Event - Video Editing",
+			"location"	: "2.4, Appleton Tower",
+			"locationmap"	: "https://maps.app.goo.gl/MdNRJpHxx2jrAxPy5",
+			"desc"		: "Learn how to edit videos in blender!",
+			"image"		: "editing-anime.gif"
+		},
+		{
+			"date"		: "2026-10-16",
+			"time"		: "18:00-20:00",
 			"title"		: "Anime Screening",
-			"location"	: "MacLaren Stuart Room, G.159 Old College",
-			"locationmap"	: "https://maps.app.goo.gl/RcrADPfbjt5rquHb9",
-			"desc"		: "A screening of The Girl Who Leapt Through Time (2006)!",
-			"image"		: "tgwltt.gif"
-		},
-		{
-			"date"		: "2026-09-15",
-			"time"		: "19:00",
-			"title"		: "Pub Social",
-			"location"	: "Bar Fifty",
-			"locationmap"	: "https://maps.app.goo.gl/A2t37sRUZnkXczR88",
-			"desc"		: "Come along for a pub social following the Movie Screening!",
-			"image"		: "bar.gif"
-		},
-		{
-			"date"		: "2026-09-18",
-			"time"		: "16:00-18:00",
-			"title"		: "Flipbook Animation",
-			"location"	: "Room 3.3, Lister Learning and Teaching Centre",
-			"locationmap"	: "https://maps.app.goo.gl/LY2YXNAbFTWc5rAE8",
-			"desc"		: "Join us for a workshop where you will make your own flipbook (materials will be provided) which you will be able to take home with you.",
-			"image"		: "drawing.gif"
+			"location"	: "2.4, Appleton Tower",
+			"locationmap"	: "https://maps.app.goo.gl/MdNRJpHxx2jrAxPy5",
+			"desc"		: "Girls Band Cry Episodes 1 to 4",
+			"image"		: "gbc.gif"
 		},
 		{
 			"date"		: "9999-12-31",
 			"time"		: "00:00",
-			"title"		: "the end of anisoc",
-			"location"	: "new tokyo-3",
-			"locationmap"	: "https://www.youtube.com/watch?v=6kguaGI7aZg",
-			"desc"		: "Take care of yourself.",
-			"image"		: "eoe.jpg"
+			"title"		: "the website is out of date sorry",
+			"location"	: "join the discord to bother me",
+			"locationmap"	: "https://discord.com/invite/2zAwsapsZM",
+			"desc"		: "screenings every friday, animation event every wednesday, please contact @iettuce on discord to fix this",
+			"image"		: "bleh.jpg"
 		}
 	]
 }
