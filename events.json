@@ -4,8 +4,8 @@
 			"date"		: "2026-10-14",
 			"time"		: "18:00-20:00",
 			"title"		: "Animation Event - Video Editing",
-			"location"	: "2.4, Appleton Tower",
-			"locationmap"	: "https://maps.app.goo.gl/MdNRJpHxx2jrAxPy5",
+			"location"	: "1.2, Lister LTC",
+			"locationmap"	: "https://share.google/QTwLT65WIj4MD4afv",
 			"desc"		: "Learn how to edit videos in blender!",
 			"image"		: "editing-anime.gif"
 		},
@@ -19,13 +19,22 @@
 			"image"		: "gbc.gif"
 		},
 		{
+			"date"		: "2026-10-14",
+			"time"		: "18:00-20:00",
+			"title"		: "Figure Painting",
+			"location"	: "1.2, Lister LTC",
+			"locationmap"	: "https://share.google/QTwLT65WIj4MD4afv",
+			"desc"		: "Come along to paint some figures!",
+			"image"		: "figure.gif"
+		},
+		{
 			"date"		: "9999-12-31",
 			"time"		: "00:00",
 			"title"		: "the website is out of date sorry",
 			"location"	: "join the discord to bother me",
 			"locationmap"	: "https://discord.com/invite/2zAwsapsZM",
 			"desc"		: "screenings every friday, animation event every wednesday, please contact @iettuce on discord to fix this",
-			"image"		: "bleh.jpg"
+			"image"		: "bleh.gif"
 		}
 	]
 }
